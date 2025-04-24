@@ -11,6 +11,6 @@ python manage.py runserver
 
 ### Viewing "Hello World" in JSON Format
 Navigate to the following URL:
-```
+
 [a link](http://127.0.0.1:8000/helloworld)
-```
+
