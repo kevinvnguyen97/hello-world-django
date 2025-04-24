@@ -4,7 +4,13 @@ This application returns a "Hello World" message when accessed through the /hell
 ## Instructions
 
 ### Running Server
-1. Run the following command in the root project directory:
+To run the web application, run the following command in the root project directory:
 ```
 python manage.py runserver
+```
+
+### Viewing "Hello World" in JSON Format
+Navigate to the following URL:
+```
+http://127.0.0.1:8000/helloworld
 ```
