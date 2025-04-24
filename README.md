@@ -4,4 +4,5 @@ This application returns a "Hello World" message when accessed through the /hell
 ## Instructions
 
 ### Running Server
-1. Run the following command in the root project directory: ```python manage.py runserver```
+1. Run the following command in the root project directory:
+```python manage.py runserver```
